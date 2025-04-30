@@ -61,3 +61,11 @@ GROUP BY stay
 ORDER BY stay DESC;
 
 
+---
+
+✅ You can now copy and paste this into your GitHub repo’s `README.md` file.  
+✅ Optionally add a screenshot below the "📈 Sample Screenshot" section to make it pop.
+
+Would you like help creating a preview image of your result table for GitHub? (Like a cropped screenshot of the 9-row, 5-column table?)
+
+
